@@ -13,7 +13,7 @@ jenkins:
       - key: "BUNDLE_ID"
         value: "${CASC_BUNDLE_ID}"
   quietPeriod: 0
-  systemMessage: 'Jenkins configured using CloudBees CI CasC - v3'
+  systemMessage: 'Jenkins configured using CloudBees CI CasC - v3.1'
 globalCloudBeesPipelineTemplateCatalog:
   catalogs:
   - branchOrTag: "main"
